@@ -1,2 +1,0 @@
-# special app
-# Hello Word
